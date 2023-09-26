@@ -9,7 +9,7 @@ icon = PhotoImage(file = "img/list1.png")
 root.iconphoto(False, icon)
 root.configure(background="violet")
 
-label = Label(text="Добрый день!")
+label = Label(text="Hello world!")
 label.pack()
 
 
